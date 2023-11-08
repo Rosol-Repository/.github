@@ -43,7 +43,6 @@ The different principles used and explained in the projects  are: *Abstraction, 
 ## Related links
 Please, check the next document to get more information:
 
-**20230419 CISTAR Coding Review and Quality Assurance Guideline v1**
+**20230419 C4ISTAR Coding Review and Quality Assurance Guideline v1**
 
-Path: *1. C4ISTAR/1. Extra Documents/2. Documentación*
 </div>
