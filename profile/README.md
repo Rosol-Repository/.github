@@ -28,9 +28,14 @@ In summary, clean and quality code is the foundation for a successful software p
 ## How to use use and run the projects
 
 1. Open **IntelliJ IDEA**
-2. Click on *File -> Open Project*. Select the whole file of the project you want to use: 
-3. Click OK
-4. Navigate to the **Main.java** of the project, in this example: *DRY\src\main\java\org.example\Main* and click on the run button:
+2. Click on *File -> Open Project*. Select the whole file of the project you want to use:
+   
+<p text-align="center">![image](https://github.com/Rosol-Repository/.github/assets/150232709/7cac91be-11c9-4e83-9b90-9984984fdb07)</p>
+
+4. Click OK
+5. Navigate to the **Main.java** of the project, in this example: *DRY\src\main\java\org.example\Main* and click on the run button:
+   
+<p text-align="center"> ![image-1](https://github.com/Rosol-Repository/.github/assets/150232709/0e29cdd9-a676-43bb-9aa2-ea025421be0c)</p>
 
 The comments explain the different functionalities and there is also presentations to explain the theory and the project.
 
